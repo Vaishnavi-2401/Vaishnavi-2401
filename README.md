@@ -1,6 +1,16 @@
 ### Hi there 👋 I'm [Vaishnavi!](https://github.com/Vaishnavi-2401/)
 
-<p><img align="right" height="300" width="400" src="https://hackster.imgix.net/uploads/attachments/1743870/ch32v103export_9LVgOSOCGq.gif?auto=compress%2Cformat&gifq=35&w=1280&h=960&fit=max" alt="SubhadeepZilong" /></p>
+<p>
+  <img 
+    align="right" 
+    height="300" 
+    width="400" 
+    src="https://hackster.imgix.net/uploads/attachments/1743870/ch32v103export_9LVgOSOCGq.gif?auto=compress%2Cformat&gifq=35&w=1280&h=960&fit=max" 
+    alt="SubhadeepZilong"
+    style="border: 1px solid black;" 
+  />
+</p>
+
 
 ## I'm an Embedded Systems Engineer
 
