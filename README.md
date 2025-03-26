@@ -12,20 +12,26 @@
 ## 🛠️ Technologies & Skills
 
 ### 🔹 Microcontrollers
-- STM32
-- ARM Cortex
+<p> 
+	<a href="#"><img alt="STM32" src="https://img.shields.io/badge/STM32-0078D6?logo=stmicroelectronics&logoColor=white"></a> 
+	<a href="#"><img alt="ARM Cortex" src="https://img.shields.io/badge/ARM_Cortex-00979D?logo=arm&logoColor=white"></a> 
+</p>
 
 ### 🔹 Embedded Programming
-- C
-- RTOS
-- FOS: Embedded Linux
+<p> 
+	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?logo=c&logoColor=white"></a> 
+	<a href="#"><img alt="RTOS" src="https://img.shields.io/badge/RTOS-%234285F4.svg?logo=linux&logoColor=white"></a> 
+	<a href="#"><img alt="Embedded Linux" src="https://img.shields.io/badge/FOS-Embedded%20Linux-%2320232A"></a> 
+</p>
 
 ### 🔹 Communication Protocols
-- CAN
-- I2C
-- SPI
-- UART
-- RS232
+<p> 
+	<a href="#"><img alt="CAN" src="https://img.shields.io/badge/CAN-0052CC?logo=protocol&logoColor=white"></a> 
+	<a href="#"><img alt="I2C" src="https://img.shields.io/badge/I2C-0052CC?logo=protocol&logoColor=white"></a> 
+	<a href="#"><img alt="SPI" src="https://img.shields.io/badge/SPI-0052CC?logo=protocol&logoColor=white"></a> 
+	<a href="#"><img alt="UART" src="https://img.shields.io/badge/UART-0052CC?logo=protocol&logoColor=white"></a> 
+	<a href="#"><img alt="RS232" src="https://img.shields.io/badge/RS232-0052CC?logo=protocol&logoColor=white"></a> 
+</p>
 
 ## 💻 Operating Systems
 <p>
