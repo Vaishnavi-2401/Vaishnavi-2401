@@ -1,10 +1,12 @@
-# Hi there 👋, I'm Vaishnavi!
+### Hi there 👋 I'm [Vaishnavi!](https://github.com/Vaishnavi-2401/)
 
-Passionate about designing & optimizing embedded solutions for real-world applications.
+<p><img align="right" height="300" width="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-## 👩‍💻 About Me
+## I'm an Embedded Systems Engineer
+
+- 👩‍💻 Passionate about designing & optimizing embedded solutions for real-world applications.
 - 🌱 Specializing in **Embedded C**
-- ⚡ Experienced in **Microcontrollers**
+- 🔋 Experienced in **Microcontrollers**
 - 🔥 Interested in **Real-Time Systems**
 
 ## 🛠️ Technologies & Skills
@@ -26,19 +28,24 @@ Passionate about designing & optimizing embedded solutions for real-world applic
 - RS232
 
 ## 💻 Operating Systems
-- Windows
-- Linux
+<p>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
+</p>
 
 ## 🌐 Browsers
-- Google Chrome
-- Safari
-- Microsoft Edge
+<p>
+	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
+	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
+</p>
 
 ## 🛠️ Software & Tools
-- Visual Studio
-- Git
-- STMicroelectronics
----
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="STMicroelectronics" src="https://img.shields.io/badge/STMicroelectronics-03234B.svg?logo=STMicroelectronics&logoColor=white"></a>
+</p>
 
 ## Connect with Me
 <p align="center">
