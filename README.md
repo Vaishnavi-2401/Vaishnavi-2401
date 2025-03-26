@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Vaishnavi!](https://github.com/Vaishnavi-2401/)
 
-<p><img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="300" width="400" src="https://camo.githubusercontent.com/0806f14fb61177231be80169fdfd9b1b2c49c0495b4a954222f7a5d4423b8697/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63342f62312f39392f63346231393936396465663531313634656134616439613239306132313762662e676966" alt="SubhadeepZilong" /></p>
 
 ## I'm an Embedded Systems Engineer
 
